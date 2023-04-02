@@ -5,6 +5,7 @@ namespace Vk
         public Form1()
         {
             InitializeComponent();
+           
         }
     }
 }
